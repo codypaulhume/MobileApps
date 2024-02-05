@@ -1,0 +1,1 @@
+These are mobile apps I created using Android Studio. The Bird App stores the call of the bird and displays it for the user. The app Lavoro is designed to store and display jobs that are within a local area.
